@@ -862,6 +862,12 @@ a {
   }
 }
 
+@media screen and (min-width: 1180px) {
+  .nav {
+    padding: 0.5rem calc(50% - 570px);
+  }
+}
+
 .theme-toggle i {
   color: var(--nav-icon);
   transition: transform 0.3s, color 0.3s;
