@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "title": "UDT - Go Online for Just $9",
+    "description": "Deploy your websites in less than 60 seconds.",
+    "ogTitle": "UDT - Deploy your websites in less than 60 seconds.",
+    "ogDescription": "UDT Cloud builds, hosts, and manages business websites.",
+    "ogImage": "https://udith.pro",
+    "ogUrl": "https://udith.pro"
+  },
+  "brand": {
+    "name": "UDT Cloud",
+    "summary": "Managed websites, hosting, security, and content support for small businesses that want the web handled."
+  },
+  "navigation": [
+    { "label": "Home", "href": "#home" },
+    { "label": "How It Works", "href": "#how-it-works" },
+    { "label": "Pricing", "href": "#pricing" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "cta": {
+    "primary": { "label": "Get a Free Consultation", "href": "#contact" },
+    "secondary": { "label": "View Pricing", "href": "#pricing" },
+    "short": { "label": "Free consult", "href": "#contact" }
+  },
+  "hero": {
+    "eyebrow": "Managed websites, hosting, and care",
+    "heading": "Hassle-Free Web Hosting & Design",
+    "tagline": "We build your website, host it on lightning-fast servers, and manage it so you can focus on growing your business.",
+    "status": "Live managed hosting",
+    "image": {
+      "name": "banner",
+      "extension": "png",
+      "alt": ""
+    },
+    "stats": [
+      { "value": "60s", "label": "launch-ready deploys" },
+      { "value": "24/7", "label": "managed support" },
+      { "value": "99.9%", "label": "uptime focused" }
+    ]
+  },
+  "process": {
+    "id": "how-it-works",
+    "heading": "How It Works",
+    "body": "Going live has never been this easy. See how we get your business online seamlessly.",
+    "steps": [
+      { "label": "1. Your Idea", "icon": "fa-desktop", "tone": "pulse-blue", "delay": "" },
+      { "label": "2. We Build & Host", "icon": "fa-cloud", "tone": "pulse-indigo", "delay": "delay-1", "gear": true },
+      { "label": "3. You Go Live", "icon": "fa-table-columns", "tone": "pulse-rose", "delay": "delay-3" }
+    ]
+  },
+  "pricing": {
+    "id": "pricing",
+    "heading": "Simple Managed Website Plans",
+    "body": "Pick the level of care your business needs today. Every plan includes setup, hosting, security, and support.",
+    "plans": [
+      {
+        "name": "The Starter",
+        "price": "$29",
+        "cycle": "/month",
+        "badge": "Local Biz",
+        "description": "Perfect for local portfolios",
+        "features": ["Done-for-you Setup", "Monthly Backups", "Free SSL Certificate", "1 Hr Tech Support"],
+        "popular": false
+      },
+      {
+        "name": "The Business",
+        "price": "$79",
+        "cycle": "/month",
+        "badge": "Most Popular",
+        "description": "Best for growing companies",
+        "features": ["Everything in Starter", "Priority Support", "Weekly Content Updates", "Basic SEO Tools"],
+        "popular": true
+      },
+      {
+        "name": "Pro / E-Com",
+        "price": "$149",
+        "cycle": "/month",
+        "badge": "100% Managed",
+        "description": "For high-traffic stores",
+        "features": ["High-Traffic Servers", "Daily Backups", "Unlimited Product Updates", "Security & SEO"],
+        "popular": false
+      }
+    ]
+  },
+  "features": {
+    "heading": "Your Online Presence, Fully Managed",
+    "body": "Focus on your business while we handle the technology behind your website.",
+    "items": [
+      {
+        "heading": "Done-For-You Setup",
+        "body": "Bring your idea, and our expert team will get your fast, beautiful website live within days. No coding required on your part.",
+        "icon": "fa-wand-magic-sparkles",
+        "image": "easy",
+        "contentAos": "fade-right",
+        "imageAos": "zoom-in-left"
+      },
+      {
+        "heading": "Blazing Fast Speeds",
+        "body": "We use top-tier cloud enterprise servers to ensure your customers never have to wait for a page to load, increasing your sales and SEO.",
+        "icon": "fa-gauge-high",
+        "image": "fast",
+        "contentAos": "fade-up"
+      },
+      {
+        "heading": "Iron-Clad Security",
+        "body": "Rest easy knowing your business is safe with free SSL certificates, daily backups, and top-of-the-line malware protection scanning.",
+        "icon": "fa-shield-halved",
+        "image": "wordpress",
+        "contentAos": "fade-up"
+      },
+      {
+        "heading": "24/7 Managed Support",
+        "body": "Need a text change, an image updated, or a new page? Just email us, and our team handles all website updates for you efficiently.",
+        "icon": "fa-headset",
+        "image": "support",
+        "contentAos": "fade-left",
+        "imageAos": "fade-right"
+      }
+    ]
+  },
+  "showcase": {
+    "heading": "User-friendly Control Panel",
+    "body": "Track site health, updates, content requests, and performance from one clean managed dashboard.",
+    "image": {
+      "name": "ipad",
+      "extension": "png",
+      "alt": ""
+    },
+    "items": [
+      {
+        "heading": "Easy Start & Managed Updates",
+        "body": "Send updates in plain English and we handle the technical work, publishing, backups, and checks.",
+        "icon": "fa-rocket"
+      },
+      {
+        "heading": "Staging, GIT & WP-CLI",
+        "body": "Advanced workflows stay available when your project needs safer releases and developer-level control.",
+        "icon": "fa-code-branch"
+      },
+      {
+        "heading": "Dynamic Caching & More",
+        "body": "Built-in caching, SSL, uptime monitoring, and daily care keep your site fast after launch day.",
+        "icon": "fa-server"
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What our Customers are Saying",
+    "body": "Business owners choose UDT Cloud because the website work finally stops feeling like a second job.",
+    "image": "testimonial",
+    "imageAlt": "A happy, smiling customer",
+    "quote": "UDT Cloud rebuilt our site, moved hosting, and now handles every update before I even have to chase it. It feels like having an in-house web team without hiring one.",
+    "author": "Maya Perera",
+    "organization": "Brightline Studio"
+  },
+  "contact": {
+    "id": "contact",
+    "heading": "Let's Get Your Business Online",
+    "body": "Send us a message and our experts will get back to you within 24 hours.",
+    "eyebrow": "Free consultation",
+    "panelHeading": "Tell us what you need. We’ll map the fastest way to launch.",
+    "panelBody": "Share your business goals, current website status, and timeline. We will reply with a practical next step, not a sales maze.",
+    "points": ["Response within 24 hours", "Hosting, design, and care in one team", "Clear plan before any commitment"],
+    "form": {
+      "action": "#",
+      "method": "POST",
+      "button": "Send Message",
+      "fields": [
+        { "label": "Name", "type": "text", "placeholder": "Your name", "required": true },
+        { "label": "Email", "type": "email", "placeholder": "you@company.com", "required": true },
+        { "label": "Project Details", "type": "textarea", "placeholder": "Tell us about your website, launch goal, or support needs...", "rows": 5, "required": true }
+      ]
+    }
+  },
+  "footer": {
+    "copyright": "Copyright 2026 Udith. All rights reserved.",
+    "backToTop": "Back to top",
+    "social": [
+      { "label": "Twitter", "href": "#", "icon": "fa-twitter" },
+      { "label": "LinkedIn", "href": "#", "icon": "fa-linkedin-in" },
+      { "label": "Facebook", "href": "#", "icon": "fa-facebook-f" }
+    ],
+    "columns": [
+      {
+        "heading": "Products",
+        "expanded": true,
+        "links": [
+          { "label": "Website Hosting", "href": "#" },
+          { "label": "Free Automated Wordpress", "href": "#" },
+          { "label": "Migrations", "href": "#" }
+        ]
+      },
+      {
+        "heading": "Company",
+        "links": [
+          { "label": "About", "href": "#" },
+          { "label": "Affiliates", "href": "#" },
+          { "label": "Blog", "href": "#" }
+        ]
+      },
+      {
+        "heading": "Support",
+        "links": [
+          { "label": "Contact", "href": "#" },
+          { "label": "Knowledge Base", "href": "#" },
+          { "label": "FAQ", "href": "#" }
+        ]
+      },
+      {
+        "heading": "Domains",
+        "links": [
+          { "label": "Domain Checker", "href": "#" },
+          { "label": "Domain Transfer", "href": "#" },
+          { "label": "Free Domain", "href": "#" }
+        ]
+      }
+    ]
+  },
+  "whatsapp": {
+    "href": "https://wa.me/1234567890",
+    "label": "Chat on WhatsApp"
+  }
+}
